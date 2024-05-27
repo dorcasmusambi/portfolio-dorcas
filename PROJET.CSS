@@ -1,0 +1,42 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 100;
+    background-image: url(font/14729893e63b1147efa644c65a106556.jpg);
+    background-position: center;
+    background-size: cover;
+}
+header{
+    background-color:whitesmoke;
+    padding: 20px;
+    text-align: center;
+}
+h1{
+    margin: 0;
+    color: black;
+}
+.titre{
+    display: flex;
+    justify-content: center;
+}
+h2{
+    margin-bottom: 10px;
+
+}
+footer{
+    background-color: black;
+    padding:20px;
+
+}
+span{
+font-size: 25px;
+text-align: center;
+margin-left: 200px;
+margin-right: 200px;
+color:red;
+}
+li{
+    color: whitesmoke;
+} 
+
+

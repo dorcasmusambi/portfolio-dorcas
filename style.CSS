@@ -1,0 +1,50 @@
+body{
+    background-image: url(font/9d681c9ad5963ed58ba54bc81c930eba.jpg);
+}
+h1{ 
+    text-align: center;
+    font-family: 'Times New Roman', Times, serifs;
+    color: rgba(0, 0, 255, 0.945);
+}
+h1{
+    text-align:center;
+    color: rgba(0, 0, 255, 0.945)
+    padding: 20px;
+}
+.Nav ul li {
+    display: flex;
+    padding: 0 25pxs;
+    color: whitesmoke;
+
+}
+.nav-links{
+    display: flex;
+    width: 100%;
+    height: fit-content;
+}
+.Nav ul li a{
+    font-size: 15px;
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.text-container{
+    text-align: center;
+    color: azure;
+    padding: 20px;
+}
+.button{
+    background-color: black;
+    border: none;
+    color: whitesmoke;
+    padding: 15px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 20px 0px;
+    cursor: pointer;
+}
+a{
+    margin: 2rem 2rem;
+
+}
